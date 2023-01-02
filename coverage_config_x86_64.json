@@ -1,1 +1,3 @@
-{"coverage_score": 81.2, "exclude_path": "src/vhost_kern/", "crate_features": "vhost-user-master,vhost-user-slave"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d867c40e3ce3acbf459c90a168bdbb671aba6279672e5727f4da0700fbd1bd4
+size 116
